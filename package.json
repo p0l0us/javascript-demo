@@ -10,9 +10,8 @@
     "react-dom": "^16.8.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
     "build": "webpack",
-    "dev": "webpack-dev-server --mode development --open --hot"
+    "dev": "webpack-dev-server --mode development --open --hot --port 3000"
   },
   "devDependencies": {
 
