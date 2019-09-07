@@ -1,2 +1,3 @@
-# js-templates
-Javascript project templates
+# React template
+
+Simple react project template.
