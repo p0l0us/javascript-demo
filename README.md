@@ -1,3 +1,9 @@
-# React template
+# Javascript demo projects  
 
-Simple react project template.
+React project template.
+
+# React shaka player demo
+feature/demo-player
+
+# React+redux shaka player demo
+feature/demo-player-redux
