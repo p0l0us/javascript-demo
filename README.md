@@ -3,7 +3,7 @@
 React project template.
 
 # React shaka player demo
-feature/demo-player
+https://github.com/p0l0us/javascript-demo/tree/feature/demo-player
 
 # React+redux shaka player demo
-feature/demo-player-redux
+https://github.com/p0l0us/javascript-demo/tree/feature/demo-player-redux
