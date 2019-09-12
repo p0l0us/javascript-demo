@@ -3,7 +3,7 @@ ports:
     onOpen: open-preview
 tasks:
   - init: npm install
-  	command: npm dev
+  	command: npm run dev
 github:
   prebuilds:
     pullRequestsFromForks: true
